@@ -1,0 +1,22 @@
+{
+  "intro": "Hi, I'm Natalie ",
+  "heroPhoto": {
+    "src": "../../images/profile_pic_2023.jpeg",
+    "alt": "Photo of the webpage author."
+  },
+  "image": {
+    "src": "../../images/woman-technologist.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "",
+  "subtitle": {
+    "prefix": "",
+    "highlight": "Software & Electrical ",
+    "suffix": "Engineer"
+  },
+  "description": "BS in Electrical Engineering and self-taught Software Engineer.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": false
+  }
+}

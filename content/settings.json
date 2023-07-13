@@ -1,0 +1,41 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Natalie Salazar | Full-Stack Engineer",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "Personal website for Natalie Salazar | Full-Stack Engineer.",
+    "author": "Natalie Salazar",
+    "avatar": "../content/images/profile_pic_2023",
+    "bio": "Natalie is a Seattle-based Software Engineer and specializes in full-stack applications.",
+    "social": {
+      "github": "https://github.com/natsal33",
+      "linkedin": "https://www.linkedin.com/in/natalie-m-salazar/",
+      "mail": "mailto:natmsal33@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Natalie Salazar" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Github", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Natalie Salazar",
+  "email": "natmsal33@gmail.com",
+  "description": "",
+  "image": {
+    "src": "../../images/NSLogoBordered.png",
+    "alt": "NS Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

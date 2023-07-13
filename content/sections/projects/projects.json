@@ -1,0 +1,60 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "Full-Stack App & RESTful API",
+      "title": "🐦 Tweet Search Showcase",
+      "description": "Find Your Tweety is your new off-platform search engine to find the most recent Twitter Tweets by content, user timelines, hashtags, and user mentions. There's also a Tweet Surprise! page that showcases a random tweet from one of my top 5 favorite Twitter handles!",
+      "tags": [
+        "Flask",
+        "RESTful API",
+        "React",
+        "Javascript",
+        "Python",
+        "HTML/CSS"
+      ],
+      "image": {
+        "src": "../../images/demoPicTweetSearch.png",
+        "alt": "Screenshot of Find Your Tweety search page",
+        "linkTo": "https://find-your-tweety.herokuapp.com/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/natsal33/twitter-showcase"
+        },
+        {
+          "type": "external",
+          "url": "https://find-your-tweety.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "HTTPS Requests via Axios",
+      "title": "🛸 Star Wars API",
+      "description": "This app uses Axios through React and Javascript to retrieve character data from the swapi.dev API and uses React-Bootstrap to for style.",
+      "tags": ["Axios", "React", "Javascript", "HTML/CSS"],
+      "image": {
+        "src": "../../images/starWarsAPIDemoPic.png",
+        "alt": "Star Wars API app page screenshot.",
+        "linkTo": "https://star-wars-api-natmsal33.herokuapp.com/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/natsal33/starWarsAPI"
+        },
+        {
+          "type": "external",
+          "url": "https://star-wars-api-natmsal33.herokuapp.com/"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/natsal33"
+  }
+}

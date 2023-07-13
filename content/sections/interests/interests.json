@@ -1,0 +1,79 @@
+{
+  "interests": [
+    {
+      "label": "Javascript",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Flask",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Java",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "RESTful APIs",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Postman",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git/Github/GithubPages",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Heroku",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "HTML/CSS",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}
