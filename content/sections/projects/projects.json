@@ -50,6 +50,56 @@
           "url": "https://star-wars-api-natmsal33.herokuapp.com/"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "ReactJS, Bootstrap-React, Local Storage",
+      "title": "💵 Expense Tracker",
+      "description": "This app uses Axios through React and Javascript to retrieve character data from the swapi.dev API and uses React-Bootstrap to for style.",
+      "tags": [
+        "React",
+        "Javascript",
+        "Bootstrap-React",
+        "HTML/CSS",
+        "Local Browser Storage"
+      ],
+      "image": {
+        "src": "../../images/expenseTrackerDemoPic.png",
+        "alt": "Expense Tracker demo screen shot.",
+        "linkTo": "https://expense-tracker-natmsal.herokuapp.com/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/natsal33/ExpenseTracker"
+        },
+        {
+          "type": "external",
+          "url": "https://expense-tracker-natmsal.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "ReactJS, Bootstrap-React, Local Storage",
+      "title": "💵 Expense Tracker",
+      "description": "The game ends when you collide with a wall or the snake accidentally 'eats' itself. Score resets after each round, what will your high score be? Through developing this game I learned how to modulate similar functions in code to make it more readable and easier to edit in the future. Learning how to utilize a gameboard was a fun challenge that really played into the logic behind code that I enjoy so much.",
+      "tags": ["JavaScript", "HTML/CSS"],
+      "image": {
+        "src": "../../images/snakeGameDemoPic.png",
+        "alt": "Snake Game demo screen shot",
+        "linkTo": "https://natsal33.github.io/snakeGame/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/natsal33/snakeGame"
+        },
+        {
+          "type": "external",
+          "url": "https://natsal33.github.io/snakeGame/"
+        }
+      ]
     }
   ],
   "button": {
