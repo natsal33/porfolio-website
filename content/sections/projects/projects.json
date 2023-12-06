@@ -3,7 +3,7 @@
     {
       "visible": true,
       "category": "Full-Stack Web Design & Development",
-      "title": "🐦 Fern & Feather Paper Co. - Website ",
+      "title": "✒️ Fern & Feather Paper Co. - Website ",
       "description": "Explore the custom calligraphy of Fern and Feather Paper Co. through this clean, elegant, and user-friendly website. This website is designed using a purely React + CSS front end along with a form created using the React-Bootstrap framework. The intention with this website was to provide a very smooth and interactive experience for endusers to promote the beauty of the products that Feather & Fern Paper Co. creates. The page can adapt to screen sizes as large as a 27 inch monitor down to a mobile phone size seamlessly. The app is deployed using Heroku.",
       "tags": [
         "AWS S3",
@@ -23,14 +23,18 @@
         {
           "type": "github",
           "url": "https://github.com/natsal33/feather-and-fern-paper-co"
+        },
+        {
+          "type": "external",
+          "url": "https://fern-and-feather-paper-co-0e0b82f0b496.herokuapp.com/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "Full-Stack App & RESTful API",
-      "title": "🐦 Tweet Search Showcase",
-      "description": "Find Your Tweety is your new off-platform search engine to find the most recent Twitter Tweets by content, user timelines, hashtags, and user mentions. There's also a Tweet Surprise! page that showcases a random tweet from one of my top 5 favorite Twitter handles!    UPDATE: Due to changes in Twitter's development platform tiers, Find Your Tweety is no longer functional.",
+      "category": "Full-Stack App & RESTful API ",
+      "title": "🐦 Tweet Search Showcase *Read Note in Description*",
+      "description": " ***UPDATE: Due to changes in Twitter's development platform tiers, Find Your Tweety is no longer functional.*** Find Your Tweety is your new off-platform search engine to find the most recent Twitter Tweets by content, user timelines, hashtags, and user mentions. There's also a Tweet Surprise! page that showcases a random tweet from one of my top 5 favorite Twitter handles! ",
       "tags": [
         "Flask",
         "RESTful API",
@@ -103,8 +107,8 @@
     },
     {
       "visible": true,
-      "category": "ReactJS, Bootstrap-React, Local Storage",
-      "title": "💵 Expense Tracker",
+      "category": "ReactJS Game",
+      "title": "🐍 Snake Game!",
       "description": "The game ends when you collide with a wall or the snake accidentally 'eats' itself. Score resets after each round, what will your high score be? Through developing this game I learned how to modulate similar functions in code to make it more readable and easier to edit in the future. Learning how to utilize a gameboard was a fun challenge that really played into the logic behind code that I enjoy so much.",
       "tags": ["JavaScript", "HTML/CSS"],
       "image": {
