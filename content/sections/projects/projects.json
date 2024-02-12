@@ -4,7 +4,7 @@
       "visible": true,
       "category": "Full-Stack Web Design & Development",
       "title": "✒️ Fern & Feather Paper Co. - Website ",
-      "description": "Explore the custom calligraphy of Fern and Feather Paper Co. through this clean, elegant, and user-friendly website. This website is designed using a purely React + CSS front end along with a form created using the React-Bootstrap framework. The intention with this website was to provide a very smooth and interactive experience for endusers to promote the beauty of the products that Feather & Fern Paper Co. creates. The page can adapt to screen sizes as large as a 27 inch monitor down to a mobile phone size seamlessly. The app is deployed using Heroku.",
+      "description": "Explore the custom calligraphy of Fern and Feather Paper Co. through this clean, elegant, and user-friendly website. This website is designed using a purely React + CSS front end, a lightweight Flask (Python) API, and an AWS S3 database to store and manage gallery photos. The intention with this website was to provide a very smooth and interactive experience for endusers to promote the beauty of the products that Feather & Fern Paper Co. creates. The page can adapt to screen sizes as large as a 27 inch monitor down to a mobile phone size seamlessly. The app is deployed using Heroku.",
       "tags": [
         "AWS S3",
         "Flask",
